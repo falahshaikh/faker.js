@@ -64,7 +64,11 @@ This will interpolate the format string with the value of methods `name.lastName
 [http://marak.github.io/faker.js/](http://marak.github.io/faker.js/)
 
 ### API Methods
-
+* celestial
+  *stars
+  *galaxy
+  *planets
+  *comets
 * address
   * zipCode
   * city
